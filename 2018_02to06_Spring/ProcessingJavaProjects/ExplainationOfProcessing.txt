@@ -1,0 +1,9 @@
+Processing is an in depth Java library that is paired with a Processing Editor/IDE
+that one can run programs from and automatically changes the Processing library features to Java. 
+
+The editor can be found on the Processing website
+https://processing.org/download/
+
+The file can be exported in Java but is hard to recognize and I've yet to understand how to make 
+it run once in the exported form. This is project I'll continueally work on but this is also why I've 
+switched over to JavaScript using the same foundations p5 library and editor. 
